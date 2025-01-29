@@ -13,7 +13,7 @@ known_face_encodings = []
 known_face_names = []
 
 # Path to your dataset
-dataset_path = 'C:\\Users\\Atiej\\OneDrive\\Projects\\Face ID\\Faces'
+dataset_path = 'example/Faces'  #Adjust Accordingly
 
 # Filename for caching encodings
 encodings_file = 'face_encodings.pkl'
